@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ilham Prabu Zaky S</string>
+    <string name="masukan_bilangan_kedua">Masukan Bilangan Kedua</string>
+    <string name="masukan_bilangan_pertama">Masukan Bilangan Pertama</string>
+    <string name="hitung_bilangan">HITUNG BILANGAN</string>
+    <string name="hasil_penjumlahan">Hasil Penjumlahan</string>
+</resources>
